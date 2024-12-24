@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @M-Abdullah
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on Data Analytics projects
+- 💞️ I’m looking to collaborate on Data related projects
 - 📫 How to reach me
 - @nocode392227@gmail.com
   
