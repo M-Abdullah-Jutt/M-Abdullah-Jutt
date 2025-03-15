@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abdullah</h1>
 <h3 align="center">A passionate Data Analyst from Pakistan</h3>
 
-- 🔭 I’m currently working on **SQL & Power BI**
+- 🔭 I’m currently working on **Power BI**
 
-- 🌱 I’m currently learning **Pandas, NumPy, & Matplotlib**
+- 🌱 I’m currently learning these Python libraries **Sk-learn and Beautiful Soap with Requests**
 
 - 👯 I’m looking to collaborate on **Data Analytics Projects**
 
