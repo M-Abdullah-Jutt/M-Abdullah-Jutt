@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abdullah</h1>
-<h3 align="center">A passionate Data Analyst from Pakistan</h3>
+<h3 align="center">A passionate AI Developer from Pakistan</h3>
 
 - 🔭 I’m currently working on **AWS & Microsoft Azure**
 
-- 🌱 I’m currently learning these Python libraries **Sk-learn and Beautiful Soap with Requests**
+- 🌱 I’m currently learning these Python libraries **Pytorch, Tensorflows, & Keras**
 
-- 👯 I’m looking to collaborate on **Data Analytics Projects**
+- 👯 I’m looking to collaborate on **Data & AI Projects**
 
-- 💬 Ask me about **Data related things**
+- 💬 Ask me about **AI & Data related things**
 
 - 📫 How to reach me **nocode392227@gmail.com**
 
