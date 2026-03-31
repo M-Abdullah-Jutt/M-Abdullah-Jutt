@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abdullah</h1>
 <h3 align="center">A passionate AI Developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **AWS & Microsoft Azure**
+- 🔭 I’m currently working on **AI-based Ed-tech System**
 
-- 🌱 I’m currently learning these Python libraries **Pytorch, Tensorflows, & Keras**
+- 🌱 I’m currently learning these Python libraries **Pytorch, Keras**
 
 - 👯 I’m looking to collaborate on **Data & AI Projects**
 
