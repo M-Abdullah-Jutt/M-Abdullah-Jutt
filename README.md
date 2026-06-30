@@ -2,7 +2,7 @@
 <h3 align="center">A passionate AI Developer from Pakistan</h3>
 
 - 🔭 I’m currently working on **Agentic-AI Systems**
-- 
+
 - 👯 I’m looking to collaborate on **Data & AI Projects**
 
 - 💬 Ask me about **AI & Data related things**
