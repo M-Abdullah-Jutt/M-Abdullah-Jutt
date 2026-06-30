@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abdullah</h1>
 <h3 align="center">A passionate AI Developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **AI-based Ed-tech System**
-
-- 🌱 I’m currently learning these Python libraries **Pytorch, Keras**
-
+- 🔭 I’m currently working on **Agentic-AI Systems**
+- 
 - 👯 I’m looking to collaborate on **Data & AI Projects**
 
 - 💬 Ask me about **AI & Data related things**
 
-- 📫 How to reach me **nocode392227@gmail.com**
+- 📫 How to reach me **m.abdullah65940@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
