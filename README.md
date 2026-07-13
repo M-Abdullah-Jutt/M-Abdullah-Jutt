@@ -1,19 +1,76 @@
 <h1 align="center">Hi 👋, I'm Muhammad Abdullah</h1>
-<h3 align="center">A passionate AI Developer from Pakistan</h3>
+<h3 align="center">AI Engineer | Backend Developer | Building Intelligent Systems with LLMs & Agentic AI</h3>
 
-- 🔭 I’m currently working on **Agentic-AI Systems**
-
-- 👯 I’m looking to collaborate on **Data & AI Projects**
-
-- 💬 Ask me about **AI & Data related things**
-
-- 📫 How to reach me **m.abdullah65940@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/abdullah-shafqat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdullah-shafqat" height="30" width="40" /></a>
-<a href="https://kaggle.com/abdullahshafqat27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abdullahshafqat27" height="30" width="40" /></a>
+<p align="center">
+Passionate about building AI-powered applications, LLM workflows, RAG systems, AI Agents, and scalable backend services that solve real-world problems.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 About Me
+
+- 🤖 Building **AI Agents, RAG Pipelines & LLM Applications**
+- 🧠 Passionate about **Machine Learning, Deep Learning & Generative AI**
+- 🐍 Strong in **Python, FastAPI & Backend Development**
+- 📊 Experienced in **Machine Learning, Data Analytics & Model Development**
+- ☁️ Experience deploying AI applications on **Microsoft Azure & AWS**
+- 🌱 Currently exploring **Multi-Agent Systems, LangGraph, MCP & AI Automation**
+- 👯 Open to collaborating on **AI, ML & Open Source Projects**
+- 💬 Ask me about **Python, Machine Learning, LLMs, FastAPI, OpenAI APIs, RAG & Backend Development**
+- 📫 Reach me at **m.abdullah65940@gmail.com**
+
+---
+
+## 🌐 Portfolio
+
+🌍 **Portfolio:** https://mabdullah.space
+
+---
+
+## 🤝 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/abdullah-shafqat" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+
+<a href="https://kaggle.com/abdullahshafqat27" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/>
+</p>
+
+### AI & Machine Learning
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45"/>
+<img src="https://huggingface.co/front/assets/huggingface_logo.svg" width="45"/>
+</p>
+
+** LangChain • LangGraph • Hugging Face • RAG • AI Agents • Prompt Engineering • Embeddings • Vector Databases • Scikit-learn • MLflow • Pandas • NumPy • Matplotlib **
+
+### Backend & Databases
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="45"/>
+</p>
+
+### Cloud & DevOps
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45"/>
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+</p>
+
+---
